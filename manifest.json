@@ -4,5 +4,7 @@
     "version": "1.0.0",  
     "author": "Puz",
     "description": "Simplistic UI",
+    "css": "style.css",
+    "loading_order": 1,
     "js": ["index.js"]
 }
