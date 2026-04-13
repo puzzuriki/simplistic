@@ -1,0 +1,8 @@
+{
+    "display_name": "Simplistic",
+    "name": "Simplistic Tech CN",
+    "version": "1.0.0",  
+    "author": "Puz",
+    "description": "Simplistic UI",
+    "js": ["index.js"]
+}
